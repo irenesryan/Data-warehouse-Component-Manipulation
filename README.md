@@ -1,4 +1,4 @@
-# Data-warehouse-Component-Manipulation
+# Data-warehouse-Component-Manipulation #Advanced Excel
 Lab-1: Introduction
 In this lab you will have the opportunity to get familiar with and manipulate the main components of a Data Warehouse (Data Mart). The DW is implemented in Access, an easy-to-use tool for creating business applications. The case study used here is a grocery store application (sales data). By consulting the related tables created for this example, you will learn about the typical modelling of a DW (star schema) and the different way to explore its dimensions.
 The objective of this tutorial is to understand the flexibility of the Cube modelling to summarize and consult a large quantity of data according to different business perspectives. To do so, you will have to select and display the relevant content of the DW in an Excel pivot table. You will realise that the pivot table is a very useful data processing tool to extract information from a large and detailed dataset in a quick and easy way.
